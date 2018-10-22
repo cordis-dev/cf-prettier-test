@@ -1,2 +1,2 @@
 printWidth: 100
-parser: "vue"
+parser: "babylon"
