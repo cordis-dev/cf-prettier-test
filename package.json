@@ -7,6 +7,6 @@
         "printWidth": 120,
         "tab-width": 4,
         "single-quote": true,
-        "parser": "babylon"
+        "parser": "babel"
     }
 }
