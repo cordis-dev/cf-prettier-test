@@ -6,8 +6,7 @@
     "prettier/prettier": [
       "error",
       {
-        "singleQuote": true,
-        "parser": "myparser"
+        "singleQuote": true
       }
     ]
   }
